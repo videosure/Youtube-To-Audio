@@ -25,4 +25,4 @@ python youtube_to_audio.py <YOUTUBE_URL> [-f {mp3,wav}] [-o OUTPUT_DIR]
 
 Example: python youtube_to_audio.py https://www.youtube.com/watch?v=VIDEO_ID -f wav -o my_audios
 
-bat file is set mp3 as mp3 default.
+Bat file is set mp3 as mp3 default.
